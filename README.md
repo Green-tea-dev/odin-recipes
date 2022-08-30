@@ -1,1 +1,2 @@
 # odin-recipes
+This repository acts as a project designing a basic website that provides food recipes. The aim is that this will exercise some basic software development principles, allowing me to practice the fundamental processes regarding setting up a repo on github, cloning and modifying it as a local repository, practicing atomic commits with proper, standardised form, and pushing the local repository back into github - all while ingraining the basic html elements required for website design.
